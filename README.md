@@ -1,6 +1,3 @@
 Nama : Nur Hidayatul Fitriyah
 NIM : E41250360
-Deskripsi :
-Golongan A
-Angkatan 2025
-Tugas Standarisasi Coding
+Deskripsi : Praktikum dasar standarisasi coding dan penggunaan Git Version Control System
